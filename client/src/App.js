@@ -29,7 +29,7 @@ function App() {
 
   return (
     <div className="App">
-      <Jobs jobs= />
+      <Jobs jobs={mock} />
     </div>
   );
 }
